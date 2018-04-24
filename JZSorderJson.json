@@ -29,7 +29,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "15.00",
+        "otherFee": null,
+        "distributionFee": "15.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -47,7 +49,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "15.00",
+        "otherFee": null,
+        "distributionFee": "15.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -65,7 +69,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "15.00",
+        "otherFee": null,
+        "distributionFee": "15.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -83,7 +89,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "15.00",
+        "otherFee": null,
+        "distributionFee": "15.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -101,7 +109,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "85.00",
+        "otherFee": "76.00",
+        "distributionFee": "9.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -119,7 +129,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "102.00",
+        "otherFee": "90.00",
+        "distributionFee": "12.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -137,7 +149,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "85.00",
+        "otherFee": "76.00",
+        "distributionFee": "9.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -155,7 +169,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "10.00",
+        "otherFee": null,
+        "distributionFee": "10.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -173,7 +189,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "3.00",
+        "otherFee": "0.00",
+        "distributionFee": "3.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       },
       {
@@ -191,7 +209,9 @@
         "recipienName": "慢羊羊",
         "requireMoeny": "20.00",
         "requireTime": "今晚之前，18:00",
-        "cost": "15.00",
+        "costSum": "66.00",
+        "otherFee": null,
+        "distributionFee": "66.00",
         "sponerDemand": "玻璃产品易碎，请小心"
       }
     ]
