@@ -16,7 +16,7 @@
     "resultList": [
       {
         "id": 0,
-        "type": "1",
+        "type": "3",
         "status": "2",
         "title": "快递",
         "time": "2018-4-24",
@@ -36,7 +36,7 @@
       },
       {
         "id": 4,
-        "type": "1",
+        "type": "3",
         "status": "2",
         "title": "超级值代拿",
         "time": "2018-4-24",
@@ -96,9 +96,9 @@
       },
       {
         "id": 8,
-        "type": "3",
+        "type": "2",
         "status": "4",
-        "title": "【代帮】需要你帮忙小哥哥",
+        "title": "需要你帮忙小哥哥",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
@@ -118,7 +118,7 @@
         "id": 9,
         "type": "4",
         "status": "2",
-        "title": "【维修】男友力max",
+        "title": "需男友力max",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
@@ -138,7 +138,7 @@
         "id": 10,
         "type": "4",
         "status": "3",
-        "title": "【维修】女友力max",
+        "title": "需女友力max",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
@@ -153,6 +153,26 @@
         "otherFee": null,
         "distributionFee": "66.00",
         "sponerDemand": "玻璃产品易碎，请小心"
+      },
+      {
+        "id": 10,
+        "type": "1",
+        "status": "3",
+        "title": "原味肠粉王",
+        "time": "2018-4-24",
+        "pickupcode": null,
+        "pickupaddress": null,
+        "address": "26栋511",
+        "sponerPhone": "15099941344",
+        "sponerName": "喜洋洋",
+        "recipienPhone": "13580426154",
+        "recipienName": "慢羊羊",
+        "requireMoeny": "20.00",
+        "requireTime": "今晚之前，18:00",
+        "costSum": "66.00",
+        "otherFee": null,
+        "distributionFee": "66.00",
+        "sponerDemand": "冷了就不要了"
       }
     ]
   }

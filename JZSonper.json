@@ -16,7 +16,7 @@
     "resultList": [
       {
         "id": 2,
-        "type": "1",
+        "type": "3",
         "status": "1",
         "title": "【快递】麻烦小哥哥",
         "time": "2018-4-24",
@@ -36,7 +36,7 @@
       },
       {
         "id": 3,
-        "type": "1",
+        "type": "3",
         "status": "1",
         "title": "一个快递，急需！",
         "time": "2018-4-25",
@@ -56,7 +56,7 @@
       },
       {
         "id": 0,
-        "type": "1",
+        "type": "3",
         "status": "2",
         "title": "虽然有点重但是配送高！",
         "time": "2018-4-24",
@@ -76,7 +76,7 @@
       },
       {
         "id": 4,
-        "type": "1",
+        "type": "3",
         "status": "2",
         "title": "这是超轻快递",
         "time": "2018-4-25",
@@ -98,7 +98,7 @@
         "id": 5,
         "type": "2",
         "status": "3",
-        "title": "【点餐】麦当劳",
+        "title": "麦当劳",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
@@ -136,9 +136,9 @@
       },
       {
         "id": 7,
-        "type": "2",
+        "type": "1",
         "status": "1",
-        "title": "求带银灰肠粉",
+        "title": "银灰肠粉",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
@@ -156,7 +156,7 @@
       },
       {
         "id": 8,
-        "type": "3",
+        "type": "4",
         "status": "4",
         "title": "需要技术宅小哥哥",
         "time": "2018-4-24",
@@ -178,7 +178,7 @@
         "id": 9,
         "type": "4",
         "status": "2",
-        "title": "【维修】男友力max",
+        "title": "男友力max",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
@@ -198,7 +198,7 @@
         "id": 10,
         "type": "4",
         "status": "3",
-        "title": "【维修】女友力max",
+        "title": "女友力max",
         "time": "2018-4-24",
         "pickupcode": null,
         "pickupaddress": null,
