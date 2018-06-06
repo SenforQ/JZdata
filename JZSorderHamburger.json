@@ -16,10 +16,10 @@
     "resultList": [
       {
         "id": 2,
-        "type": "1",
-        "storeIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
+        "type": "4",
+        "storeIconURL":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528267193562&di=383eaf219eac425e4f8d343fcf03865d&imgtype=0&src=http%3A%2F%2Fp2.pccoo.cn%2Fweixin%2F20150102%2F2015010223030227395124.jpg",
         "status": "1",
-        "title": "外婆家",
+        "title": "汉堡王",
         "workingStartTime": "8:30",
         "workingEndTime": "23:00",
         "avagerFree": "13",
@@ -27,25 +27,25 @@
       },
       {
         "id": 3,
-        "type": "1",
+        "type": "4",
         "storeIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_two.png",
         "status": "1",
-        "title": "潮汕小馆",
+        "title": "麦当劳",
         "workingStartTime": "8:30",
         "workingEndTime": "23:00",
         "avagerFree": "13",
-        "serviceTime": "15",
+        "serviceTime": "350",
       },
       {
         "id": 4,
-        "type": "1",
+        "type": "4",
         "status": "1",
         "storeIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_two.png",
-        "title": "舞茶道",
+        "title": "肯德基",
         "workingStartTime": "8:30",
         "workingEndTime": "23:00",
-        "avagerFree": "13",
-        "serviceTime": "15",
+        "avagerFree": "19",
+        "serviceTime": "20",
       }
     ]
   }
