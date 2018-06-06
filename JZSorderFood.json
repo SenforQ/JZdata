@@ -17,7 +17,7 @@
       {
         "id": 2,
         "type": "1",
-        "storeIconURL":"https://github.com/SenforQ/JZdata/blob/master/bannermodelImage_two.png",
+        "storeIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
         "status": "1",
         "title": "外婆家",
         "workingStartTime": "8:30",
@@ -28,7 +28,7 @@
       {
         "id": 3,
         "type": "1",
-        "storeIconURL":"https://github.com/SenforQ/JZdata/blob/master/bannermodelImage_two.png",
+        "storeIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_two.png",
         "status": "1",
         "title": "潮汕小馆",
         "workingStartTime": "8:30",
@@ -40,7 +40,7 @@
         "id": 4,
         "type": "1",
         "status": "1",
-        "storeIconURL":"https://github.com/SenforQ/JZdata/blob/master/bannermodelImage_two.png",
+        "storeIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_two.png",
         "title": "舞茶道",
         "workingStartTime": "8:30",
         "workingEndTime": "23:00",
