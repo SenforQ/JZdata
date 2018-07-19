@@ -1,7 +1,6 @@
 {
   "message": "操作成功",
   "status": "200",
-<<<<<<< HEAD
   "resultList": [
     {
       "id": 3,
@@ -169,102 +168,4 @@
       ]
     }
   ]
-=======
-    "resultList": [
-      {
-        "id": 2,
-        "good":[
-          {
-            "categoryId":"4aea47a653a2c7bc0153a2cdca680003",
-            "goodIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
-            "count":"1",
-            "goodsId":"11",
-            "goodsName":"牛肉丸",
-            "goodsType":"0",
-            "orginalPrice":"223",
-            "realPrice":"210",
-            "shopId":"3",
-            "shopName":"潮汕火锅",
-            "total":"99",
-          },
-          {
-            "categoryId":"4aea47a653a2c7bc0153a2cdca680003",
-            "goodIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
-            "count":"1",
-            "goodsId":"11",
-            "goodsName":"牛肉丸河粉",
-            "goodsType":"0",
-            "orginalPrice":"293",
-            "realPrice":"220",
-            "shopId":"3",
-            "shopName":"潮汕火锅",
-            "total":"99",
-          },
-          {
-            "categoryId":"4aea47a653a2c7bc0153a2cdca680003",
-            "goodIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
-            "count":"1",
-            "goodsId":"11",
-            "goodsName":"牛肉丸汤河粉",
-            "goodsType":"0",
-            "orginalPrice":"233",
-            "realPrice":"21",
-            "shopId":"3",
-            "shopName":"潮汕火锅",
-            "total":"99",
-          }
-
-        ],
-        "shopName": "潮汕火锅",
-        "sid":"000"
-      },
-      {
-        "id": 3,
-        "good":[
-          {
-            "categoryId":"4aea47a653a2c7bc0153a2cdca680003",
-            "goodIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
-            "count":"1",
-            "goodsId":"11",
-            "goodsName":"红茶",
-            "goodsType":"0",
-            "orginalPrice":"223",
-            "realPrice":"210",
-            "shopId":"3",
-            "shopName":"舞茶道",
-            "total":"99",
-          },
-          {
-            "categoryId":"4aea47a653a2c7bc0153a2cdca680003",
-            "goodIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
-            "count":"1",
-            "goodsId":"11",
-            "goodsName":"西米露奶茶",
-            "goodsType":"0",
-            "orginalPrice":"293",
-            "realPrice":"220",
-            "shopId":"3",
-            "shopName":"舞茶道",
-            "total":"99",
-          },
-          {
-            "categoryId":"4aea47a653a2c7bc0153a2cdca680003",
-            "goodIconURL":"https://raw.githubusercontent.com/SenforQ/JZdata/master/bannermodelImage_one.png",
-            "count":"1",
-            "goodsId":"11",
-            "goodsName":"珍珠奶茶",
-            "goodsType":"0",
-            "orginalPrice":"233",
-            "realPrice":"21",
-            "shopId":"3",
-            "shopName":"舞茶道",
-            "total":"99",
-          }
-
-        ],
-        "shopName": "舞茶道",
-        "sid":"000"
-      }
-    ]
->>>>>>> 219cef9f95aee0d526dcb889e08caa710b0253ce
 }
