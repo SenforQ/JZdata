@@ -1,0 +1,31 @@
+{
+  "message": "操作成功",
+  "status": "200",
+  "result": [
+    {
+      "title": "科目二-侧方位停车",
+      "urlStr": "http://ips.ifeng.com/video19.ifeng.com/video09/2019/03/14/p12245550-102-009-102637.mp4",
+      "covImg": "https://github.com/SenforQ/JZdata/blob/master/cefang.jpeg?raw=true",
+    },
+    {
+        "title": "科目二-上坡定点",
+        "urlStr": "https://vd4.bdstatic.com/mda-jbqk6mjjfh1memzg/sc/mda-jbqk6mjjfh1memzg.mp4",
+        "covImg": "https://github.com/SenforQ/JZdata/blob/master/dingdian.jpeg?raw=true",
+    },
+    {
+        "title": "科目二-S曲线",
+        "urlStr": "http://ips.ifeng.com/video19.ifeng.com/video09/2018/04/09/24664378-102-9987625-122705.mp4",
+        "covImg": "https://github.com/SenforQ/JZdata/blob/master/squxian.jpeg?raw=true",
+    },
+    {
+        "title": "科目二-直角过弯",
+        "urlStr": "http://ips.ifeng.com/video19.ifeng.com/video09/2018/08/23/p1071594-102-009-110041.mp4",
+        "covImg": "https://github.com/SenforQ/JZdata/blob/master/zhijiao.jpeg?raw=true",
+    },
+    {
+        "title": "科目二-倒车入库",
+        "urlStr": "https://vd3.bdstatic.com/mda-jbde9i7jfh8pqmap/sc/mda-jbde9i7jfh8pqmap.mp4",
+        "covImg": "https://github.com/SenforQ/JZdata/blob/master/daoche.jpeg?raw=true",
+    }
+  ]
+}
